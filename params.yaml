@@ -9,6 +9,10 @@ data_source:
 load_data:
   raw_dataset_csv: data/raw/winequality.csv
 
+reports:
+  params: report/params.json
+  scores: report/scores.json
+
 split_data:
   train_path: data/processed/train_winequality.csv
   test_path: data/processed/test_winequality.csv
