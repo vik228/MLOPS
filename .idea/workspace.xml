@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c354b5f3-abe4-4a97-afe2-0af8c080e764" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tox.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_given/winequality.csv.dvc" beforeDir="false" afterPath="$PROJECT_DIR$/data_given/winequality.csv.dvc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvc.lock" beforeDir="false" afterPath="$PROJECT_DIR$/dvc.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvc.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/dvc.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/params.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/data_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -273,4 +273,6 @@ dependencies:
     - wrapt==1.12.1
     - xmltodict==0.12.0
     - zc-lockfile==2.0
+    - pytest
+    - tox-conda
 prefix: /Users/vikaspandey/opt/anaconda3/envs/ml_ops
